@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/Q3HjDTC9" alt="Bild" width="300">
+  <img src="https://i.postimg.cc/Lsyrq63K/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" alt="Bild" width="300">
 </p>
