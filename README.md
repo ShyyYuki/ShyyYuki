@@ -4,6 +4,10 @@
   </a>
 </p>
 
-## where java?
+<p align="center">
+  <strong>where java?</strong>
+</p>
 
-https://camo.githubusercontent.com/023380272dd1bc56194dc6f0a7d2b48360c1f9f66e70ea6c1b81ee60b4b58ea8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661
+<p align="center">
+  <img src="https://ibb.co/Q3HjDTC9" alt="Bild" width="300">
+</p>
