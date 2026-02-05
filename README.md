@@ -4,10 +4,8 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>where java?</strong>
-</p>
+<h2 align="center">where java?</h2>
 
 <p align="center">
-  <img src="https://i.postimg.cc/Lsyrq63K/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" alt="Bild" width="300">
+  <img src="https://i.postimg.cc/kgqZftjM/hd-java-programming-logo-png-701751694771848sm650yaqjt-removebg-preview.png" alt="Bild" width="300">
 </p>
